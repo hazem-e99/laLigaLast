@@ -2,9 +2,14 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
+const appBase =
+  process.env.VITE_APP_BASE && process.env.VITE_APP_BASE.trim().length > 0
+    ? process.env.VITE_APP_BASE
+    : '/'
+
 // https://vite.dev/config/
-export default defineConfig(({ mode }) => ({
+export default defineConfig(() => ({
   plugins: [react(), tailwindcss()],
-  base: mode === 'production' ? '/laliga/' : '/',
+  base: appBase,
 }))
 
