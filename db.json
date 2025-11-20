@@ -1,0 +1,93 @@
+{
+  "users": [
+    {
+      "id": "b98b",
+      "firstName": "Zeinab",
+      "lastName": "fawzy",
+      "phone": "01156616277",
+      "email": "Zeinab12345@gmail.com",
+      "password": "Zeinab12345@",
+      "birthDate": "2002-05-05",
+      "gender": "female",
+      "address": "abha",
+      "acceptTerms": true
+    },
+    {
+      "id": "d74b",
+      "firstName": "roqaya",
+      "lastName": "fawzy",
+      "phone": "01156616277",
+      "email": "roqaya67@gmail.com",
+      "password": "roqaya67@",
+      "birthDate": "2002-05-05",
+      "gender": "female",
+      "address": "cairo",
+      "acceptTerms": true
+    },
+    {
+      "id": "bedf",
+      "firstName": "roqaya",
+      "lastName": "fawzy",
+      "phone": "01156616277",
+      "email": "Ro789@gmail.com",
+      "password": "Ro789@",
+      "birthDate": "2025-04-09",
+      "gender": "female",
+      "address": "cairo",
+      "acceptTerms": true
+    },
+    {
+      "id": "d839",
+      "firstName": "tasneem",
+      "lastName": "fawzy",
+      "phone": "01156616229",
+      "email": "Tasneem12345@gmail.com",
+      "password": "Tasneem12345@",
+      "birthDate": "2002-06-12",
+      "gender": "female",
+      "address": "cairo",
+      "acceptTerms": true
+    },
+    {
+      "id": "1869",
+      "firstName": "Hazem",
+      "lastName": "Essam",
+      "phone": "01094575914",
+      "email": "admin2025hazem@gmail.com",
+      "password": "112233",
+      "birthDate": "1999-01-02",
+      "gender": "male",
+      "address": "assuit",
+      "acceptTerms": true
+    },
+    {
+      "id": "6c09",
+      "firstName": "Hazem",
+      "lastName": "Essam",
+      "phone": "01448888896",
+      "email": "hazemessam881999@gmail.com",
+      "password": "112233",
+      "birthDate": "1999-08-11",
+      "gender": "male",
+      "address": "..",
+      "acceptTerms": true
+    },
+    {
+      "id": "6b57",
+      "firstName": "Hazem",
+      "lastName": "Essam",
+      "phone": "01094575914",
+      "email": "admin2025hazemm@gmail.com",
+      "password": "112233",
+      "birthDate": "1998-01-11",
+      "gender": "male",
+      "address": "......",
+      "acceptTerms": true
+    }
+  ],
+  "googleUsers": [
+    {
+
+    }
+  ]
+}
